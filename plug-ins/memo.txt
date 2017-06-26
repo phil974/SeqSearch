@@ -1,0 +1,4 @@
+("osa", "lv", "dl", "hamming", "lcs", "qgram",
+"cosine", "jaccard", "jw", "soundex")
+
+Ajouter accuracy
